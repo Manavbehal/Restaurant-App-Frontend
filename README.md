@@ -1,6 +1,7 @@
 ﻿# foodapp-client
 
 
-![Imgur Album](https://imgur.com/a/beMAOJl)
+![Alt Text](./src/assets/Screenshot 2024-06-17 121004.png)
+
 
 
